@@ -12,3 +12,4 @@ Este proyecto trata de una API que permite ingresar datos a ua Base de Datos uti
 - POST (vehiculo/)
 - PUT (vehiculo/:id)
 - POST (vehiculo(insertar-desdeapi/:id)
+- POST (vehiculo/:id)
